@@ -6,3 +6,4 @@ NPM     : 2206810995
 
 Kelas   : PBP E
 
+Hobi    : Menari
